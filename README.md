@@ -22,13 +22,13 @@ The capstone project contains four parts: data cleaning, exploratory data analys
 # 3. Exploratory Data Analysis
 
 
-Distribution of total profit per region  
+Distribution of total profits per region  
 ![Profit_total](./images/profit_total.png)
 
-Distribution of total postive profit per region  
+Distribution of total postive profits per region  
 ![Profit_pos](./images/profit_pos.png)
 
-Distribution of total negative profit per region  
+Distribution of total negative profits per region  
 ![Profit_negl](./images/profit_neg.png)
 
 ![Profit_neg_causel](./images/profit_2states.png)
