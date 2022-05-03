@@ -31,16 +31,21 @@ The capstone project contains four parts: data cleaning, exploratory data analys
 ![Profit_neg_causel](./images/profit_2states.png)
 
 **Heatmap gives us a sense of the important features to the profits**
+
 ![correlation](./images/heatmap.png)  
 
-
+We can see 'the number of discounts' becomes the MOST important contributor to profit.
 
 **Words heavily involoved in product names**
   
 
 ![wordcloud](./images/text.png)  
  
+Through the wordcloud generated images, we can see:
 
+"xerox" and "ring binder" are the two most important words that were repeatedly mentioned in the product names. This is not very surprising since we found out 'office supplies' has the largest volumes of orders.
+Two band names that stand out from this analysis are "newell" and "wilson jones', Newell Brands is an American worldwide manufacturer of consumer and commercial products with a portfolio of brands including: Rubbermaid storage, home organization and writing instruments, etc. Wilson Jones is the inventor and supplier of the three ring binder.
+'conference table' and 'task chair' could imply that the volume of profits came from the category of 'furniture'.
 
 
 # 4. Preprocessing 
@@ -53,7 +58,7 @@ The capstone project contains four parts: data cleaning, exploratory data analys
   
 ![PCA colored by avg_profits](./images/pca2.png)
 
-The red points represent the upper quartile of 'profit' and spread across the first dimension (>0).
+The blue points represent the upper quartile of 'profit' and spread across the first dimension (>0).
 
 # 5. Training and Modeling
 
