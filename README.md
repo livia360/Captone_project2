@@ -1,15 +1,15 @@
 
-Predict customers' response to the marketing champaign
+Understanding Superstore's Sales data using EDA
 ======================================================
   
-![Sales] (./images/sales.png)
+![Sales] (./images/sales.jpg)
 
 
 # 1. Introduction
 
 With growing demand in the market, a Supertore giant likes to have a better understanding of what factors matter to the sales and profits, accordingly to improve the forthcoming sales stragety.
 
-The dataset is from Kaggle (https:) and was collected between Jan. 2014 and Jan. 2018.
+The dataset is from [Kaggle](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final) and was collected between Jan. 2014 and Jan. 2018.
 
 
 
@@ -18,7 +18,6 @@ The capstone project contains four parts: data cleaning, exploratory data analys
 # 2. Data Cleaning and Wrangling
 
   
-
 ![Sales_profits_order_by_state](./images/total_profits.png)
 ![Sales_profits_by_state](./images/barh_sales.png)
 
@@ -31,13 +30,12 @@ The capstone project contains four parts: data cleaning, exploratory data analys
 ![Profit_negl](./images/profit_neg.png)
 ![Profit_neg_causel](./images/profit_2states.png)
 
-**heatmap gives us a sense of the important features to the profits**
-
+**Heatmap gives us a sense of the important features to the profits**
 ![correlation](./images/heatmap.png)  
 
 
 
-**words heavily involoved in product names**
+**Words heavily involoved in product names**
   
 
 ![wordcloud](./images/text.png)  
