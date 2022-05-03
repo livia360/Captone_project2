@@ -2,7 +2,7 @@
 Understanding Superstore's Sales data using EDA
 ======================================================
   
-![Sales](./images/sales.jpg)
+![Sales](./images/sale.jpg)
 
 
 # 1. Introduction
@@ -31,6 +31,8 @@ The capstone project contains four parts: data cleaning, exploratory data analys
 **Heatmap gives us a sense of the important features to the profits**
 
 ![correlation](./images/heatmap.png)  
+
+
 
 We can see 'the number of discounts' becomes the MOST important contributor to profit.
 
@@ -63,5 +65,7 @@ The blue points represent the upper quartile of 'profit' and spread across the f
 
 
 ![top 5 important features](./images/important_features.png)
+
+
 
 
