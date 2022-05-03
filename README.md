@@ -2,7 +2,7 @@
 Understanding Superstore's Sales data using EDA
 ======================================================
   
-![Sales] (./images/sales.jpg)
+![Sales](./images/sales.png)
 
 
 # 1. Introduction
@@ -53,7 +53,7 @@ The capstone project contains four parts: data cleaning, exploratory data analys
   
 ![PCA colored by avg_profits](./images/pca2.png)
 
-The red points represent the upper quartile of 'profit' and spread across the first dimension (>0).
+The blue points represent the upper quartile of 'profit' and spread across the first dimension (>0).
 
 # 5. Training and Modeling
 
