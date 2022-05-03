@@ -2,7 +2,7 @@
 Understanding Superstore's Sales data using EDA
 ======================================================
   
-![Sales] (./images/sales.jpg)
+![Sales](./images/sales.png)
 
 
 # 1. Introduction
@@ -17,7 +17,6 @@ The capstone project contains four parts: data cleaning, exploratory data analys
 
 # 2. Data Cleaning and Wrangling
 
-  
 ![Sales_profits_order_by_state](./images/total_profits.png)
 ![Sales_profits_by_state](./images/barh_sales.png)
 
@@ -36,7 +35,7 @@ The capstone project contains four parts: data cleaning, exploratory data analys
 
 We can see 'the number of discounts' becomes the MOST important contributor to profit.
 
-**Words heavily involoved in product names**
+
   
 
 ![wordcloud](./images/text.png)  
