@@ -2,7 +2,7 @@
 Understanding Superstore's Sales data using EDA
 ======================================================
   
-![Sales](./images/sales.png)
+![Sales](./images/sales.jpg)
 
 
 # 1. Introduction
@@ -17,7 +17,6 @@ The capstone project contains four parts: data cleaning, exploratory data analys
 
 # 2. Data Cleaning and Wrangling
 
-![Sales_profits_order_by_state](./images/total_profits.png)
 ![Sales_profits_by_state](./images/barh_sales.png)
 
 # 3. Exploratory Data Analysis
