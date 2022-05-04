@@ -59,9 +59,9 @@ We can see 'the number of discounts' becomes the MOST important contributor to p
  
 Through the wordcloud generated images, we can see:
 
-"xerox" and "ring binder" are the two most important words that were repeatedly mentioned in the product names. This is not very surprising since we found out 'office supplies' has the largest volumes of orders.
-Two band names that stand out from this analysis are "newell" and "wilson jones', Newell Brands is an American worldwide manufacturer of consumer and commercial products with a portfolio of brands including: Rubbermaid storage, home organization and writing instruments, etc. Wilson Jones is the inventor and supplier of the three ring binder.
-'conference table' and 'task chair' could imply that the volume of profits came from the category of 'furniture'.
+- "xerox" and "ring binder" are the two most important words that were repeatedly mentioned in the product names. This is not very surprising since we found out 'office supplies' has the largest volumes of orders.
+- Two band names that stand out from this analysis are "newell" and "wilson jones', Newell Brands is an American worldwide manufacturer of consumer and commercial products with a portfolio of brands including: Rubbermaid storage, home organization and writing instruments, etc. Wilson Jones is the inventor and supplier of the three ring binder.
+- 'conference table' and 'task chair' could imply that the volume of profits came from the category of 'furniture'.
 
 
 # 4. Preprocessing 
