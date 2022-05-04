@@ -18,7 +18,14 @@ The capstone project contains four parts: data cleaning, exploratory data analys
 # 2. Data Cleaning and Wrangling
 
 ![Sales_discounts_by_state](./images/total_discounts.png)
+- total number of orders
+- total sales
+- total profits
+- total number of discounts
+
 ![Sales_profits_by_state](./images/barh_sales.png)
+
+- distribution of average sales and average profits by state
 
 # 3. Exploratory Data Analysis
 
@@ -33,6 +40,8 @@ Distribution of total negative profits per region
 ![Profit_negl](./images/profit_neg.png)
 
 ![Profit_neg_causel](./images/profit_2states.png)
+
+
 
 **Heatmap gives us a sense of the important features to the profits**
 ![correlation](./images/heatmap.png)  
@@ -50,9 +59,9 @@ We can see 'the number of discounts' becomes the MOST important contributor to p
  
 Through the wordcloud generated images, we can see:
 
-"xerox" and "ring binder" are the two most important words that were repeatedly mentioned in the product names. This is not very surprising since we found out 'office supplies' has the largest volumes of orders.
-Two band names that stand out from this analysis are "newell" and "wilson jones', Newell Brands is an American worldwide manufacturer of consumer and commercial products with a portfolio of brands including: Rubbermaid storage, home organization and writing instruments, etc. Wilson Jones is the inventor and supplier of the three ring binder.
-'conference table' and 'task chair' could imply that the volume of profits came from the category of 'furniture'.
+- "xerox" and "ring binder" are the two most important words that were repeatedly mentioned in the product names. This is not very surprising since we found out 'office supplies' has the largest volumes of orders.
+- Two band names that stand out from this analysis are "newell" and "wilson jones', Newell Brands is an American worldwide manufacturer of consumer and commercial products with a portfolio of brands including: Rubbermaid storage, home organization and writing instruments, etc. Wilson Jones is the inventor and supplier of the three ring binder.
+- 'conference table' and 'task chair' could imply that the volume of profits came from the category of 'furniture'.
 
 
 # 4. Preprocessing 
