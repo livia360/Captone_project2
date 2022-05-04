@@ -50,7 +50,7 @@ Distribution of total negative profits per region
 
 
 
-We can see 'the number of discounts' becomes the MOST important contributor to profit.
+- We can see 'the number of discounts' becomes the MOST important contributor to profit.
 
 
   
