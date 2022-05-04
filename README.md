@@ -1,5 +1,5 @@
 
-Understanding Superstore's Sales data using EDA
+Understanding Superstore's Sales data using EDA and Regression
 ======================================================
   
 ![Sales](./images/sale.jpg)
