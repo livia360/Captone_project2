@@ -34,6 +34,12 @@ Distribution of total negative profits per region
 
 ![Profit_neg_causel](./images/profit_2states.png)
 
+- total number of orders
+- total sales
+- total profits
+- total number of discounts
+
+
 **Heatmap gives us a sense of the important features to the profits**
 ![correlation](./images/heatmap.png)  
 
