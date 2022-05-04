@@ -17,6 +17,7 @@ The capstone project contains four parts: data cleaning, exploratory data analys
 
 # 2. Data Cleaning and Wrangling
 
+![Sales_discounts_by_state](./images/total_discounts.png)
 ![Sales_profits_by_state](./images/barh_sales.png)
 
 # 3. Exploratory Data Analysis
