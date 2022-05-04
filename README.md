@@ -64,7 +64,7 @@ Two band names that stand out from this analysis are "newell" and "wilson jones'
   
 ![PCA colored by avg_profits](./images/pca2.png)
 
-The blue points represent the upper quartile of 'profit' and spread across the first dimension (>0).
+The blue points represent the lower quartile of 'profit' and spread across the first dimension (>0).
 
 # 5. Training and Modeling
 
