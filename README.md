@@ -27,8 +27,7 @@ The capstone project contains four parts: data cleaning, exploratory data analys
 
 - distribution of average sales and average profits by state
 
-# 3. Exploratory Data Analysis      
-[(EDA)](https://github.com/livia360/Capstone_project2/blob/81232bfd1c8349553c5f7443a4ffe76abff0263a/Part1_data_wrangling_and_EDA.ipynb)
+# 3. Exploratory Data Analysis  (EDA)](https://github.com/livia360/Capstone_project2/blob/81232bfd1c8349553c5f7443a4ffe76abff0263a/Part1_data_wrangling_and_EDA.ipynb)
 
 
 Distribution of total profits per region  
