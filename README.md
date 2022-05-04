@@ -18,6 +18,11 @@ The capstone project contains four parts: data cleaning, exploratory data analys
 # 2. Data Cleaning and Wrangling
 
 ![Sales_discounts_by_state](./images/total_discounts.png)
+- total number of orders
+- total sales
+- total profits
+- total number of discounts
+
 ![Sales_profits_by_state](./images/barh_sales.png)
 
 # 3. Exploratory Data Analysis
@@ -34,10 +39,6 @@ Distribution of total negative profits per region
 
 ![Profit_neg_causel](./images/profit_2states.png)
 
-- total number of orders
-- total sales
-- total profits
-- total number of discounts
 
 
 **Heatmap gives us a sense of the important features to the profits**
