@@ -25,7 +25,7 @@ The capstone project contains four parts: data cleaning, exploratory data analys
 
 ![Sales_profits_by_state](./images/barh_sales.png)
 
-- average sales and profits by state
+- distribution of average sales and average profits by state
 
 # 3. Exploratory Data Analysis
 
