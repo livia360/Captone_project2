@@ -7,7 +7,7 @@ Understanding Superstore's Sales data using EDA and Regression
 
 # 1. Introduction
 
-With growing demand in the market, a Supertore giant likes to have a better understanding of what factors matter to the sales and profits, accordingly to improve the forthcoming sales stragety.
+With growing demand in the market, a Supertore giant likes to have a better understanding of what factors matter to the sales and profits and build a predictive model.
 
 The dataset is from [Kaggle](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final) and was collected between Jan. 2014 and Jan. 2018 across 48 states in the US.
 
@@ -17,29 +17,42 @@ The capstone project contains four parts: data cleaning, exploratory data analys
 
 # 2. Data Cleaning and Wrangling
 
-![Sales_discounts_by_state](./images/total_discounts.png)
-- total number of orders
+
 - total sales
 - total profits
-- total number of discounts
 
 ![Sales_profits_by_state](./images/barh_sales.png)
 
-- distribution of average sales and average profits by state
+- Average sales and profits by State
 
 # 3. Exploratory Data Analysis  [(EDA)](https://github.com/livia360/Capstone_project2/blob/a35929cbe5d9cdfba6e375c622eaaeda3eba750f/Part1_data_wrangling_and_EDA.ipynb)
 
 
-Distribution of total profits per region  
-![Profit_total](./images/profit_total.png)
+Total Sales/Profits per State  
+![Profit_total](./images/state.png)
 
-Distribution of total postive profits per region  
-![Profit_pos](./images/profit_pos.png)
+Total Sales/Profits per Region  
+![Profit_region](./images/region.png)
 
-Distribution of total negative profits per region  
-![Profit_negl](./images/profit_neg.png)
+Total sales/Profits per Category  
+![Profit_category](./images/cat.png)
 
+Total Sales/Profits per Segment
+![Profit_segment](./images/seg.png)
+
+Two states with lowest profit
 ![Profit_neg_causel](./images/profit_2states.png)
+
+
+Total Sales/Profits - Top 10 States
+![Profit_states](./images/top.png)
+
+Total Sales/Profits - Top 10 Cities
+![Profit_cities](./images/top2.png)
+
+**ANOVA test** 
+ANOVA is used to estimate how the mean of a quantitative variable changes according to the levels of categorical variables. Use a ANOVA when you want to know how independent variables, in combination, affect a dependent variable.
+![anova](./images/anova.png)
 
 
 
@@ -47,21 +60,15 @@ Distribution of total negative profits per region
 ![correlation](./images/heatmap.png)  
 
 
-
-
-
-- We can see 'the number of discounts' becomes the MOST important contributor to profit.
-
-
   
 
-![wordcloud](./images/text.png)  
+![wordcloud](./images/text2.png)  
  
 Through the wordcloud generated images, we can see:
 
-- "xerox" and "ring binder" are the two most important words that were repeatedly mentioned in the product names. This is not very surprising since we found out 'office supplies' has the largest volumes of orders.
-- Two band names that stand out from this analysis are "newell" and "wilson jones', Newell Brands is an American worldwide manufacturer of consumer and commercial products with a portfolio of brands including: Rubbermaid storage, home organization and writing instruments, etc. Wilson Jones is the inventor and supplier of the three ring binder.
-- 'conference table' and 'task chair' could imply that the volume of profits came from the category of 'furniture'.
+- **"xerox" and "ring binder"** are the two most important words that were repeatedly mentioned in the product names. This is not very surprising since we found out 'office supplies' has the largest volumes of orders.
+- Two band names that stand out from this analysis are **"newell" and "wilson jones'**, Newell Brands is an American worldwide manufacturer of consumer and commercial products with a portfolio of brands including: Rubbermaid storage, home organization and writing instruments, etc. Wilson Jones is the inventor and supplier of the three ring binder.
+- - **'New York'** in the east region, **'Los Angles' and ' San Francisco'** in the west region are the top three most important cities. It makes sense because they are the cities with large amount of sales of products. 
 
 
 # 4. Preprocessing 
@@ -77,7 +84,6 @@ Through the wordcloud generated images, we can see:
 The blue points represent the lower quartile of 'profit' and spread across the first dimension (>0).
 
 # 5. Training and Modeling
-
 
 
 ![top 5 important features](./images/important_features.png)
