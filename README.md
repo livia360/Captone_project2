@@ -18,12 +18,11 @@ The capstone project contains four parts: data cleaning, exploratory data analys
 # 2. Data Cleaning and Wrangling
 
 
-- total sales
-- total profits
+
+- Average sales and profits by State
 
 ![Sales_profits_by_state](./images/barh_sales.png)
 
-- Average sales and profits by State
 
 # 3. Exploratory Data Analysis  [(EDA)](https://github.com/livia360/Capstone_project2/blob/a35929cbe5d9cdfba6e375c622eaaeda3eba750f/Part1_data_wrangling_and_EDA.ipynb)
 
@@ -34,13 +33,13 @@ The capstone project contains four parts: data cleaning, exploratory data analys
 **Total Sales/Profits per Region**
 ![Profit_region](./images/region.png)
 
-**Total sales/Profits per Category**  
+**Total Sales/Profits per Category**  
 ![Profit_category](./images/cat.png)
 
 **Total Sales/Profits per Segment**
 ![Profit_segment](./images/seg.png)
 
-Two states with lowest profit
+
 ![Profit_neg_causel](./images/profit_2states.png)
 
 
@@ -68,15 +67,13 @@ Through the wordcloud generated images, we can see:
 
 - **"xerox" and "ring binder"** are the two most important words that were repeatedly mentioned in the product names. This is not very surprising since we found out 'office supplies' has the largest volumes of orders.
 - Two band names that stand out from this analysis are **"newell" and "wilson jones'**, Newell Brands is an American worldwide manufacturer of consumer and commercial products with a portfolio of brands including: Rubbermaid storage, home organization and writing instruments, etc. Wilson Jones is the inventor and supplier of the three ring binder.
-- - **'New York'** in the east region, **'Los Angles' and ' San Francisco'** in the west region are the top three most important cities. It makes sense because they are the cities with large amount of sales of products. 
+- **'New York'** in the east region, **'Los Angles' and ' San Francisco'** in the west region are the top three most important cities. It makes sense because they are the cities with large amount of sales of products. 
 
 
 # 4. Preprocessing 
   
 
-
-![PCA](./images/pca1.png)
-
+**PCA**
 **The first two components account for about 60% of the variance, and the first five for over 85%.**   
   
 ![PCA colored by avg_profits](./images/pca2.png)
@@ -85,8 +82,6 @@ The blue points represent the lower quartile of 'profit' and spread across the f
 
 # 5. Training and Modeling
 
-
-![top 5 important features](./images/important_features.png)
 
 
 
