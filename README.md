@@ -28,26 +28,26 @@ The capstone project contains four parts: data cleaning, exploratory data analys
 # 3. Exploratory Data Analysis  [(EDA)](https://github.com/livia360/Capstone_project2/blob/a35929cbe5d9cdfba6e375c622eaaeda3eba750f/Part1_data_wrangling_and_EDA.ipynb)
 
 
-Total Sales/Profits per State  
+**Total Sales/Profits per State**  
 ![Profit_total](./images/state.png)
 
-Total Sales/Profits per Region  
+**Total Sales/Profits per Region**
 ![Profit_region](./images/region.png)
 
-Total sales/Profits per Category  
+**Total sales/Profits per Category**  
 ![Profit_category](./images/cat.png)
 
-Total Sales/Profits per Segment
+**Total Sales/Profits per Segment**
 ![Profit_segment](./images/seg.png)
 
 Two states with lowest profit
 ![Profit_neg_causel](./images/profit_2states.png)
 
 
-Total Sales/Profits - Top 10 States
+**Total Sales/Profits - Top 10 States**
 ![Profit_states](./images/top.png)
 
-Total Sales/Profits - Top 10 Cities
+**Total Sales/Profits - Top 10 Cities**
 ![Profit_cities](./images/top2.png)
 
 **ANOVA test** 
