@@ -34,13 +34,13 @@ The capstone project contains four parts: data cleaning, exploratory data analys
 **Total Sales/Profits per Region**
 ![Profit_region](./images/region.png)
 
-**Total sales/Profits per Category**  
+**Total Sales/Profits per Category**  
 ![Profit_category](./images/cat.png)
 
 **Total Sales/Profits per Segment**
 ![Profit_segment](./images/seg.png)
 
-Two states with lowest profit
+
 ![Profit_neg_causel](./images/profit_2states.png)
 
 
