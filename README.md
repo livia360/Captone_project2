@@ -15,7 +15,7 @@ The dataset is from [Kaggle](https://www.kaggle.com/datasets/vivek468/superstore
 
 The capstone project contains four parts: data cleaning, exploratory data analysis, preprocessing, final model selection and prediction.
 
-# 2. Data Cleaning and Wrangling
+# 2. Data Wrangling
 
 
 
@@ -72,7 +72,7 @@ Through the wordcloud generated images, we can see:
 - **'New York'** in the east region, **'Los Angles' and ' San Francisco'** in the west region are the top three most important cities. It makes sense because they are the cities with large amount of sales of products. 
 
 
-# 4. Preprocessing 
+# 4. Data Preprocessing 
   
 
 **PCA**
@@ -82,7 +82,7 @@ Through the wordcloud generated images, we can see:
 
 The blue points represent the lower quartile of 'profit' and spread across the first dimension (>0).
 
-# 5. Training and Modeling
+# 5. Modeling
 
 
 
