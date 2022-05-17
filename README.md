@@ -68,15 +68,13 @@ Through the wordcloud generated images, we can see:
 
 - **"xerox" and "ring binder"** are the two most important words that were repeatedly mentioned in the product names. This is not very surprising since we found out 'office supplies' has the largest volumes of orders.
 - Two band names that stand out from this analysis are **"newell" and "wilson jones'**, Newell Brands is an American worldwide manufacturer of consumer and commercial products with a portfolio of brands including: Rubbermaid storage, home organization and writing instruments, etc. Wilson Jones is the inventor and supplier of the three ring binder.
-- - **'New York'** in the east region, **'Los Angles' and ' San Francisco'** in the west region are the top three most important cities. It makes sense because they are the cities with large amount of sales of products. 
+- **'New York'** in the east region, **'Los Angles' and ' San Francisco'** in the west region are the top three most important cities. It makes sense because they are the cities with large amount of sales of products. 
 
 
 # 4. Preprocessing 
   
 
-
-![PCA](./images/pca1.png)
-
+**PCA**
 **The first two components account for about 60% of the variance, and the first five for over 85%.**   
   
 ![PCA colored by avg_profits](./images/pca2.png)
@@ -85,8 +83,6 @@ The blue points represent the lower quartile of 'profit' and spread across the f
 
 # 5. Training and Modeling
 
-
-![top 5 important features](./images/important_features.png)
 
 
 
