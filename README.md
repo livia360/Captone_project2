@@ -49,8 +49,10 @@ The capstone project contains four parts: data cleaning, exploratory data analys
 **Total Sales/Profits - Top 10 Cities**
 ![Profit_cities](./images/top2.png)
 
+
+
 **ANOVA test** 
-ANOVA is used to estimate how the mean of a quantitative variable changes according to the levels of categorical variables. Use a ANOVA when you want to know how independent variables, in combination, affect a dependent variable.
+- ANOVA is used to estimate how the mean of a quantitative variable changes according to the levels of categorical variables. Use a ANOVA when you want to know how independent variables, in combination, affect a dependent variable.
 ![anova](./images/anova.png)
 
 
@@ -74,7 +76,7 @@ Through the wordcloud generated images, we can see:
   
 
 **PCA**
-**The first two components account for about 60% of the variance, and the first five for over 85%.**   
+- **The first two components account for about 60% of the variance, and the first five for over 85%.**   
   
 ![PCA colored by avg_profits](./images/pca2.png)
 
