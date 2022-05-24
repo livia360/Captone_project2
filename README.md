@@ -1,5 +1,5 @@
 
-Understanding Superstore's Sales data using EDA and Regression
+Understanding Superstore's Sales Data using EDA and Regression
 ======================================================
   
 ![Sales](./images/sale.jpg)
@@ -15,7 +15,7 @@ The dataset is from [Kaggle](https://www.kaggle.com/datasets/vivek468/superstore
 
 The capstone project contains four parts: data cleaning, exploratory data analysis, preprocessing, final model selection and prediction.
 
-# 2. Data Cleaning and Wrangling
+# 2. Data Wrangling
 
 
 
@@ -49,8 +49,10 @@ The capstone project contains four parts: data cleaning, exploratory data analys
 **Total Sales/Profits - Top 10 Cities**
 ![Profit_cities](./images/top2.png)
 
+
+
 **ANOVA test** 
-ANOVA is used to estimate how the mean of a quantitative variable changes according to the levels of categorical variables. Use a ANOVA when you want to know how independent variables, in combination, affect a dependent variable.
+- ANOVA is used to estimate how the mean of a quantitative variable changes according to the levels of categorical variables. Use a ANOVA when you want to know how independent variables, in combination, affect a dependent variable.
 ![anova](./images/anova.png)
 
 
@@ -70,17 +72,17 @@ Through the wordcloud generated images, we can see:
 - **'New York'** in the east region, **'Los Angles' and ' San Francisco'** in the west region are the top three most important cities. It makes sense because they are the cities with large amount of sales of products. 
 
 
-# 4. Preprocessing 
+# 4. Data Preprocessing 
   
 
 **PCA**
-**The first two components account for about 60% of the variance, and the first five for over 85%.**   
+- **The first two components account for about 60% of the variance, and the first five for over 85%.**   
   
 ![PCA colored by avg_profits](./images/pca2.png)
 
 The blue points represent the lower quartile of 'profit' and spread across the first dimension (>0).
 
-# 5. Training and Modeling
+# 5. Modeling
 
 
 
