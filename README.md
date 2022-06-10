@@ -18,10 +18,7 @@ The capstone project contains four parts: data cleaning, exploratory data analys
 # 2. Data Wrangling
 
 
-
-- Average sales and profits by State
-
-![Sales_profits_by_state](./images/barh_sales.png)
+![Sales_all 49states](./images/all49states.png)
 
 
 # 3. Exploratory Data Analysis  [(EDA)](https://github.com/livia360/Capstone_project2/blob/7cbf2ebc5544a27ae39cbc7a23257153c0089299/Part1_data_wrangling_and_EDA.ipynb)
