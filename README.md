@@ -37,8 +37,6 @@ The capstone project contains four parts: data cleaning, exploratory data analys
 ![Profit_segment](./images/seg.png)
 
 
-![Profit_neg_causel](./images/profit_2states.png)
-
 
 **Total Sales/Profits - Top 10 States**
 ![Profit_states](./images/top.png)
