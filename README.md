@@ -18,7 +18,6 @@ The capstone project contains four parts: data cleaning, exploratory data analys
 # 2. Data Wrangling
 
 
-
 ![Sales_all 49states](./images/all49states.png)
 
 
