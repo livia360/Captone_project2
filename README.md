@@ -85,7 +85,7 @@ The blue points represent the lower quartile of 'profit' and spread across the f
 # 5. Modeling
 
 
-
+-[final_slides](https://github.com/livia360/Capstone_project2/blob/5e4af91cc8ed02babe860b1cad82bac0c58a978b/Capstone2_Sales_Regression_models_deck.pdf)
 
 
 
