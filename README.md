@@ -93,7 +93,7 @@ The blue points represent the lower quartile of 'profit' and spread across the f
 
 - Since the data was collected from 2014 - 2018, this model might not fully reflect all the price changes recently in the market. Moreover, features that were used in developing the models, might not be enough to sufficiently describe the sales. The sales range is mainly less than ~$100, which is a bit small in my opinion.
 
-- And lastly, the market of densely populated urban areas is definitely different from that of the rural area. This means more data needs to be collected for different regions across all 49 states in the US in order to efficiently predict the sales for any particular area.
+- And lastly, the market of densely populated urban areas is definitely different from that of the rural area. This means more data needs to be collected from different regions across all 49 states in the US in order to efficiently predict the sales for any particular area.
 
 
 -[final_slides](https://github.com/livia360/Capstone_project2/blob/4321de8132f14bdf9c65b121031acbd0d2e97f59/Capstone2_Sales_Regression_models_final_deck.pdf)
