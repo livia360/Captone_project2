@@ -17,6 +17,10 @@ The capstone project contains four parts: data cleaning, exploratory data analys
 
 # 2. Data Wrangling
 
+- Remove outliers
+- convert 'Order Date' and 'Ship Date' to the datetime datatype
+- Create 'Month' and 'Year' from 'Order Date'
+- Drop less useful columns
 
 ![Sales_all 49states](./images/all49states.png)
 
