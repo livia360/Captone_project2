@@ -78,6 +78,12 @@ The blue points represent the lower quartile of 'profit' and spread across the f
 
 # 5. Modeling
 
+|Models|R2|MAE|RMSE
+| :---: | :---: | :---: | :---: |
+|LinearRegression|63.26|7.53|10.78
+|Lasso           |63.29|7.53|10.99
+|Ridge           |62.84|7.48|11.01
+|RandomForestRegressor|82.96|4.02|7.28
 
 -[final_slides](https://github.com/livia360/Capstone_project2/blob/4321de8132f14bdf9c65b121031acbd0d2e97f59/Capstone2_Sales_Regression_models_final_deck.pdf)
 
