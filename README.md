@@ -7,7 +7,7 @@ Understanding Superstore's Sales Data using EDA and Regression
 
 # 1. Introduction
 
-- With growing demand in the market, a Supertore giant likes to have a better understanding of what factors matter to their sales and improve the forthcoming sales strategy.
+- With the growing demand in the market, a Superstore giant likes to have a better understanding of what factors matter to their sales and improve the forthcoming sales strategy.
 
 - The dataset is from [Kaggle](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final) and was collected between Jan. 2014 and Jan. 2018 across 49 states in the US.
 
