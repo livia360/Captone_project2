@@ -1,5 +1,5 @@
 
- Understanding Superstore's Sales Data :heavy_dollar_sign: using EDA and Regression  
+ :memo: Understanding Superstore's Sales Data using EDA and Regression  
 ======================================================
   
 ![Sales](./images/sale.jpg)
