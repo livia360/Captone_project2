@@ -1,5 +1,5 @@
 
- :memo: Understanding Superstore's Sales Data using EDA and Regression  
+ Understanding Superstore's Sales Data :memo: using EDA and Regression  
 ======================================================
   
 ![Sales](./images/sale.jpg)
