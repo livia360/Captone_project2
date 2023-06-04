@@ -1,5 +1,5 @@
 
-:chart_with_upwards_trend:  Understanding Superstore's Sales Data using EDA and Regression  
+Understanding Superstore's Sales Data :chart_with_upwards_trend: using EDA and Regression  
 ======================================================
   
 ![Sales](./images/sale.jpg)
